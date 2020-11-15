@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ddw1234/Reduxtut/issues"
   },
-  "homepage": "https://github.com/ddw1234/Reduxtut#readme"
+  "homepage": "https://github.com/ddw1234/Reduxtut#readme",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
 }
