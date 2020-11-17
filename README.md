@@ -5,4 +5,6 @@ Go to folder location : npm init –yes
 Node index .js
 To install redux run below command-
 Npm install redux
+To install thunk run below command
+Npm install axios redux-thunk
 
